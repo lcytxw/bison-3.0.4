@@ -1,14 +1,14 @@
 lib/uniwidth/width.o: lib/uniwidth/width.c lib/config.h lib/uniwidth.h \
   lib/unitypes.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdint.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdint.h \
   /usr/include/stdint.h /usr/include/features.h \
   /usr/include/stdc-predef.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
   /usr/include/x86_64-linux-gnu/bits/wchar.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h \
   lib/localcharset.h lib/uniwidth/cjk.h lib/streq.h lib/string.h \
   /usr/include/string.h /usr/include/xlocale.h \
   /usr/include/x86_64-linux-gnu/bits/string.h \
@@ -26,7 +26,7 @@ lib/uniwidth.h:
 
 lib/unitypes.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdint.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdint.h:
 
 /usr/include/stdint.h:
 
@@ -44,9 +44,9 @@ lib/unitypes.h:
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h:
 
 lib/localcharset.h:
 

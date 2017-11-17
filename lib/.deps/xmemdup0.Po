@@ -1,6 +1,6 @@
 lib/xmemdup0.o: lib/xmemdup0.c lib/config.h lib/xmemdup0.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h \
   lib/xalloc.h lib/xalloc-oversized.h lib/string.h /usr/include/string.h \
   /usr/include/features.h /usr/include/stdc-predef.h \
   /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -20,9 +20,9 @@ lib/config.h:
 
 lib/xmemdup0.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h:
 
 lib/xalloc.h:
 

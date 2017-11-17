@@ -1,8 +1,8 @@
 lib/vasnprintf.o: lib/vasnprintf.c lib/config.h lib/alloca.h \
   lib/vasnprintf.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdarg.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdarg.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h \
   /usr/include/locale.h /usr/include/features.h \
   /usr/include/stdc-predef.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -36,16 +36,16 @@ lib/vasnprintf.o: lib/vasnprintf.c lib/config.h lib/alloca.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
   /usr/include/x86_64-linux-gnu/asm/errno.h \
   /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h \
   /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
   /usr/include/x86_64-linux-gnu/bits/local_lim.h \
   /usr/include/linux/limits.h \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/float.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/float.h \
   lib/printf-parse.h lib/printf-args.h \
   /usr/include/x86_64-linux-gnu/bits/wchar.h lib/xsize.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdint.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdint.h \
   /usr/include/stdint.h lib/verify.h lib/math.h /usr/include/math.h \
   /usr/include/x86_64-linux-gnu/bits/math-vector.h \
   /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -66,11 +66,11 @@ lib/alloca.h:
 
 lib/vasnprintf.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdarg.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdarg.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h:
 
 /usr/include/locale.h:
 
@@ -172,7 +172,7 @@ lib/string.h:
 
 /usr/include/asm-generic/errno-base.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h:
 
 /usr/include/limits.h:
 
@@ -186,7 +186,7 @@ lib/string.h:
 
 /usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/float.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/float.h:
 
 lib/printf-parse.h:
 
@@ -196,7 +196,7 @@ lib/printf-args.h:
 
 lib/xsize.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdint.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdint.h:
 
 /usr/include/stdint.h:
 

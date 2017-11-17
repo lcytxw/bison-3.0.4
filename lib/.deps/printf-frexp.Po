@@ -1,5 +1,5 @@
 lib/printf-frexp.o: lib/printf-frexp.c lib/config.h lib/printf-frexp.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/float.h lib/math.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/float.h lib/math.h \
   /usr/include/math.h /usr/include/features.h /usr/include/stdc-predef.h \
   /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -20,7 +20,7 @@ lib/config.h:
 
 lib/printf-frexp.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/float.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/float.h:
 
 lib/math.h:
 

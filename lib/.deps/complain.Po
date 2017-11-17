@@ -1,5 +1,5 @@
 lib/complain.o: lib/complain.c lib/config.h lib/system.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h \
   /usr/include/limits.h /usr/include/features.h \
   /usr/include/stdc-predef.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -11,8 +11,8 @@ lib/complain.o: lib/complain.c lib/config.h lib/system.h \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h \
   lib/stdlib.h /usr/include/stdlib.h \
   /usr/include/x86_64-linux-gnu/bits/waitflags.h \
   /usr/include/x86_64-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
@@ -37,20 +37,20 @@ lib/complain.o: lib/complain.c lib/config.h lib/system.h \
   /usr/include/x86_64-linux-gnu/bits/environments.h \
   /usr/include/x86_64-linux-gnu/bits/confname.h /usr/include/getopt.h \
   lib/inttypes.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/inttypes.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/inttypes.h \
   /usr/include/inttypes.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdint.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdint.h \
   /usr/include/stdint.h /usr/include/x86_64-linux-gnu/bits/wchar.h \
   lib/unlocked-io.h lib/stdio.h /usr/include/stdio.h \
   /usr/include/libio.h /usr/include/_G_config.h lib/wchar.h \
   /usr/include/wchar.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdarg.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdarg.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
   /usr/include/x86_64-linux-gnu/bits/stdio.h lib/verify.h lib/xalloc.h \
   lib/xalloc-oversized.h /usr/include/locale.h \
   /usr/include/x86_64-linux-gnu/bits/locale.h lib/gettext.h \
   /usr/include/libintl.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdbool.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdbool.h \
   /usr/include/assert.h lib/obstack.h lib/argmatch.h lib/progname.h \
   lib/complain.h lib/location.h lib/uniqstr.h lib/files.h lib/getargs.h \
   lib/quote.h
@@ -59,7 +59,7 @@ lib/config.h:
 
 lib/system.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h:
 
 /usr/include/limits.h:
 
@@ -87,9 +87,9 @@ lib/system.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h:
 
 lib/stdlib.h:
 
@@ -161,11 +161,11 @@ lib/unistd.h:
 
 lib/inttypes.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/inttypes.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/inttypes.h:
 
 /usr/include/inttypes.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdint.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdint.h:
 
 /usr/include/stdint.h:
 
@@ -185,7 +185,7 @@ lib/wchar.h:
 
 /usr/include/wchar.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdarg.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdarg.h:
 
 /usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
 
@@ -205,7 +205,7 @@ lib/gettext.h:
 
 /usr/include/libintl.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdbool.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdbool.h:
 
 /usr/include/assert.h:
 

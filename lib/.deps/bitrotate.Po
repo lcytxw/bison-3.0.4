@@ -1,5 +1,5 @@
 lib/bitrotate.o: lib/bitrotate.c lib/config.h lib/bitrotate.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h \
   /usr/include/limits.h /usr/include/features.h \
   /usr/include/stdc-predef.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -11,13 +11,13 @@ lib/bitrotate.o: lib/bitrotate.c lib/config.h lib/bitrotate.h \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdint.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdint.h \
   /usr/include/stdint.h /usr/include/x86_64-linux-gnu/bits/wchar.h \
   lib/sys/types.h /usr/include/x86_64-linux-gnu/sys/types.h \
   /usr/include/x86_64-linux-gnu/bits/types.h \
   /usr/include/x86_64-linux-gnu/bits/typesizes.h lib/time.h \
   /usr/include/time.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h \
   /usr/include/endian.h /usr/include/x86_64-linux-gnu/bits/endian.h \
   /usr/include/x86_64-linux-gnu/bits/byteswap.h \
   /usr/include/x86_64-linux-gnu/bits/byteswap-16.h \
@@ -32,7 +32,7 @@ lib/config.h:
 
 lib/bitrotate.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h:
 
 /usr/include/limits.h:
 
@@ -60,7 +60,7 @@ lib/bitrotate.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdint.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdint.h:
 
 /usr/include/stdint.h:
 
@@ -78,7 +78,7 @@ lib/time.h:
 
 /usr/include/time.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h:
 
 /usr/include/endian.h:
 

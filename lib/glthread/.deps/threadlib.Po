@@ -9,11 +9,11 @@ lib/glthread/threadlib.o: lib/glthread/threadlib.c lib/config.h \
   /usr/include/x86_64-linux-gnu/bits/types.h \
   /usr/include/x86_64-linux-gnu/bits/typesizes.h \
   /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/sched.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h lib/time.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h lib/time.h \
   /usr/include/time.h /usr/include/x86_64-linux-gnu/bits/sched.h \
   /usr/include/x86_64-linux-gnu/bits/time.h \
   /usr/include/x86_64-linux-gnu/bits/timex.h /usr/include/xlocale.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
   /usr/include/x86_64-linux-gnu/bits/setjmp.h lib/stdlib.h \
   /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
@@ -56,7 +56,7 @@ lib/config.h:
 
 /usr/include/sched.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h:
 
 lib/time.h:
 
@@ -70,7 +70,7 @@ lib/time.h:
 
 /usr/include/xlocale.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
 

@@ -1,6 +1,6 @@
 lib/mbswidth.o: lib/mbswidth.c lib/config.h lib/mbswidth.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h \
   lib/stdlib.h /usr/include/stdlib.h /usr/include/features.h \
   /usr/include/stdc-predef.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
@@ -26,14 +26,14 @@ lib/mbswidth.o: lib/mbswidth.c lib/config.h lib/mbswidth.h \
   /usr/include/string.h /usr/include/x86_64-linux-gnu/bits/string.h \
   /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/ctype.h \
   lib/wchar.h /usr/include/wchar.h lib/stdio.h /usr/include/stdio.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdarg.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdarg.h \
   /usr/include/x86_64-linux-gnu/bits/wchar.h lib/wctype.h \
   /usr/include/libio.h /usr/include/_G_config.h \
   /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
   /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
   /usr/include/x86_64-linux-gnu/bits/stdio.h \
   /usr/include/x86_64-linux-gnu/bits/timex.h /usr/include/wctype.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h \
   /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
   /usr/include/x86_64-linux-gnu/bits/local_lim.h \
   /usr/include/linux/limits.h \
@@ -44,9 +44,9 @@ lib/config.h:
 
 lib/mbswidth.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h:
 
 lib/stdlib.h:
 
@@ -126,7 +126,7 @@ lib/stdio.h:
 
 /usr/include/stdio.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdarg.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdarg.h:
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
@@ -146,7 +146,7 @@ lib/wctype.h:
 
 /usr/include/wctype.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h:
 
 /usr/include/limits.h:
 

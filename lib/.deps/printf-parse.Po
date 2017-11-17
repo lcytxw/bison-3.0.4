@@ -4,12 +4,12 @@ lib/printf-parse.o: lib/printf-parse.c lib/config.h lib/printf-parse.h \
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h lib/printf-args.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h \
   lib/wchar.h /usr/include/wchar.h lib/stdio.h /usr/include/stdio.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdarg.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdarg.h \
   /usr/include/x86_64-linux-gnu/bits/wchar.h /usr/include/xlocale.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdint.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdint.h \
   /usr/include/stdint.h lib/stdlib.h /usr/include/stdlib.h \
   /usr/include/x86_64-linux-gnu/bits/waitflags.h \
   /usr/include/x86_64-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
@@ -32,7 +32,7 @@ lib/printf-parse.o: lib/printf-parse.c lib/config.h lib/printf-parse.h \
   /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
   /usr/include/x86_64-linux-gnu/asm/errno.h \
   /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
-  lib/xsize.h /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h \
+  lib/xsize.h /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h \
   /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
   /usr/include/x86_64-linux-gnu/bits/local_lim.h \
   /usr/include/linux/limits.h \
@@ -58,9 +58,9 @@ lib/printf-parse.h:
 
 lib/printf-args.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h:
 
 lib/wchar.h:
 
@@ -70,13 +70,13 @@ lib/stdio.h:
 
 /usr/include/stdio.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdarg.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdarg.h:
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
 /usr/include/xlocale.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdint.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdint.h:
 
 /usr/include/stdint.h:
 
@@ -148,7 +148,7 @@ lib/string.h:
 
 lib/xsize.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h:
 
 /usr/include/limits.h:
 

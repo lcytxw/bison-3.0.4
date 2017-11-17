@@ -1,11 +1,11 @@
 lib/fatal-signal.o: lib/fatal-signal.c lib/config.h lib/fatal-signal.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdbool.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdbool.h \
   lib/stdlib.h /usr/include/stdlib.h /usr/include/features.h \
   /usr/include/stdc-predef.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h \
   /usr/include/x86_64-linux-gnu/bits/waitflags.h \
   /usr/include/x86_64-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
   /usr/include/x86_64-linux-gnu/bits/endian.h \
@@ -23,7 +23,7 @@ lib/fatal-signal.o: lib/fatal-signal.c lib/config.h lib/fatal-signal.h \
   /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h lib/alloca.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
   /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h \
   lib/signal.h /usr/include/signal.h \
   /usr/include/x86_64-linux-gnu/bits/signum.h \
   /usr/include/x86_64-linux-gnu/bits/siginfo.h \
@@ -41,7 +41,7 @@ lib/config.h:
 
 lib/fatal-signal.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stdbool.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stdbool.h:
 
 lib/stdlib.h:
 
@@ -59,7 +59,7 @@ lib/stdlib.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
@@ -105,7 +105,7 @@ lib/alloca.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h:
 
 lib/signal.h:
 

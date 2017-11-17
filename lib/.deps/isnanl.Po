@@ -1,11 +1,11 @@
 lib/isnanl.o: lib/isnanl.c lib/isnan.c lib/config.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/float.h lib/string.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/float.h lib/string.h \
   /usr/include/string.h /usr/include/features.h \
   /usr/include/stdc-predef.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
   /usr/include/x86_64-linux-gnu/bits/wordsize.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs.h \
   /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h \
   /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/bits/string.h \
   /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
   /usr/include/x86_64-linux-gnu/bits/endian.h \
@@ -14,8 +14,8 @@ lib/isnanl.o: lib/isnanl.c lib/isnan.c lib/config.h \
   /usr/include/x86_64-linux-gnu/bits/typesizes.h \
   /usr/include/x86_64-linux-gnu/bits/byteswap-16.h lib/stdlib.h \
   /usr/include/stdlib.h \
-  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h \
-  lib/float+.h /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h \
+  /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h \
+  lib/float+.h /usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h \
   /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
   /usr/include/x86_64-linux-gnu/bits/local_lim.h \
   /usr/include/linux/limits.h \
@@ -27,7 +27,7 @@ lib/isnan.c:
 
 lib/config.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/float.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/float.h:
 
 lib/string.h:
 
@@ -45,7 +45,7 @@ lib/string.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/stddef.h:
 
 /usr/include/xlocale.h:
 
@@ -69,11 +69,11 @@ lib/stdlib.h:
 
 /usr/include/stdlib.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/__stddef_max_align_t.h:
 
 lib/float+.h:
 
-/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/limits.h:
+/usr/lib/llvm-4.0/bin/../lib/clang/4.0.0/include/limits.h:
 
 /usr/include/limits.h:
 
