@@ -1,0 +1,2 @@
+#! /bin/sh
+exec '/home/icy/comp/bison-3.0.4/install/bin/bison' -y "$@"

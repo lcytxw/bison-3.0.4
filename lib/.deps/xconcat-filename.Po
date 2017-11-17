@@ -1,0 +1,17 @@
+lib/xconcat-filename.o: lib/xconcat-filename.c lib/config.h \
+  lib/concat-filename.h lib/xalloc.h \
+  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h \
+  /usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h \
+  lib/xalloc-oversized.h
+
+lib/config.h:
+
+lib/concat-filename.h:
+
+lib/xalloc.h:
+
+/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/stddef.h:
+
+/usr/lib/llvm-3.8/bin/../lib/clang/3.8.0/include/__stddef_max_align_t.h:
+
+lib/xalloc-oversized.h:

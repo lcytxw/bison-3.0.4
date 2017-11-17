@@ -1,0 +1,3 @@
+src/bison-main.o: src/main.c src/print.h
+
+src/print.h:
